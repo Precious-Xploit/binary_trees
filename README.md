@@ -1,6 +1,6 @@
 BINARY TREES
 
-![https://github.com/Precious-Xploit/binary_trees/blob/main/binary%20tree%20set.webp](https://github.com/Precious-Xploit/binary_trees/blob/main/binary%20tree%20set.webp)
+![https://github.com/Karlie-crypto/binary_trees/blob/main/binary%20tree%20set.webp](https://github.com/Karlie-crypto/binary_trees/blob/main/binary%20tree%20set.webp)
 
 
 
@@ -43,4 +43,4 @@ PROJECT DESCRIPTION
 
 
 
-AUTHOR KARLIE MOYO
+AUTHOR PRECIOUS XPLOIT IFEANYICHUKWU
